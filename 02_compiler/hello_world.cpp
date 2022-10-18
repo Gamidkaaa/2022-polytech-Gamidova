@@ -1,7 +1,9 @@
 #include <iostream>
-                
-int main()
+#include "func.h"
+
+int main() 
 {
-    std::cout << "Hello World" << std::endl;
-    return 0;
+  std::printf ("Hello, World!");
+  
+  return 0;
 }
