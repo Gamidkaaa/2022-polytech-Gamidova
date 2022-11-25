@@ -1,4 +1,6 @@
 TIME RESULTS
+
+
 -O0:   real    0m1.280s
      user    0m0.000s
      sys     0m0.015s
@@ -35,7 +37,7 @@ TIME RESULTS
 SIZE RESULTS
 
 
--O0:   000fe670
+-O0: 000fe670
 
 -O1: 000fe5f0
 
@@ -52,5 +54,6 @@ SIZE RESULTS
 -Ofast: 000fe6f8
 
 
-Размер файлов не отличается.
+Размер файлов не отличается (total 30M)
+
 
